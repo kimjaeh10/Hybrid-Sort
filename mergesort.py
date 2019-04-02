@@ -1,7 +1,5 @@
 """
 PROJECT 3 - Merge Sort
-Name: Jaeeun Kim
-PID: A55641452
 """
 
 from Project3.LinkedList import LinkedList

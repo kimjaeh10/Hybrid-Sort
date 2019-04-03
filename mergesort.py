@@ -1,7 +1,3 @@
-"""
-PROJECT 3 - Merge Sort
-"""
-
 from Project3.LinkedList import LinkedList
 
 def merge_lists(lists, threshold):
